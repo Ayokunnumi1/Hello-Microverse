@@ -1,2 +1,3 @@
 # Hello-Microverse 
-This is my first Microverse Project built by myself.
+This is my first Microverse Project.
+Project built solo.
