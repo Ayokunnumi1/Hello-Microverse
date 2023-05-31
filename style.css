@@ -1,10 +1,5 @@
-/* stylelint-disable block-opening-brace-space-before */
-/* stylelint-disable indentation */
 
-h1
- /* stylelint-disable-next-line block-opening-brace-space-before */
- {
+h1 {
   color: brown;
   background-color: beige;
-/* stylelint-disable-next-line no-missing-end-of-source-newline */
 }
